@@ -2,10 +2,11 @@
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 
+
 #include <stdio.h>
 #include <string.h>
-#include "stb_image.h"
 #include "stb_image_write.h"
+#include "stb_image.h"
 
 
 
@@ -46,7 +47,7 @@ int main()
 		//Passar por todos os valores de rgb de cada pixel
 		for (i = 0; i < y; i++)
         {
-            for (j = 0; j < x; j++)
+            for (j = 0; j < x; j+=2)
             {
 				indice = (i * x + j) * 3;
                 r = bytes[indice];
@@ -61,6 +62,7 @@ int main()
             }
         }
 		stbi_write_png(ficheiro,x,y,3,bytes,x*3);
+		
 
 
 	puts("Cor da imagem filtrada!");
