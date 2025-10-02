@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\filtro\\Filtro_De_Cor\\Filtro_proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C15645-06A5-423C-80EF-1BC6C88DD727}|Filtro_proj\\Filtro_proj.vcxproj|C:\\Users\\Aluno\\Desktop\\filtro\\Filtro_De_Cor\\Filtro_proj\\Filtro_proj\\script.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8C15645-06A5-423C-80EF-1BC6C88DD727}|Filtro_proj\\Filtro_proj.vcxproj|solutionrelative:Filtro_proj\\script.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.c",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\filtro\\Filtro_De_Cor\\Filtro_proj\\Filtro_proj\\script.c",
+              "RelativeDocumentMoniker": "Filtro_proj\\script.c",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\filtro\\Filtro_De_Cor\\Filtro_proj\\Filtro_proj\\script.c",
+              "RelativeToolTip": "Filtro_proj\\script.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-02T17:04:30.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
